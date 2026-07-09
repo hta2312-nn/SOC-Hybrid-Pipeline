@@ -1,0 +1,10 @@
+xgboost>=3.1
+scikit-learn>=1.0
+shap>=0.40
+numpy>=1.20,<3.0
+pandas>=2.0
+matplotlib>=3.0
+requests>=2.28
+ember @ git+https://github.com/elastic/ember.git
+streamlit>=1.30
+lief
