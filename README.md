@@ -19,7 +19,7 @@ Graduation thesis project — *"Hybrid SOC Pipeline: Combining Machine Learning 
 | Throughput | 96,000 samples/sec | 0.07 samples/sec |
 | Explainability | No (black box) | Yes (natural language + MITRE ATT&CK) |
 
-Full details: see `docs/BaoCao.docx`.
+Full details: see `pdf\FinalReport.pdf`.
 
 ## Project Structure
 
