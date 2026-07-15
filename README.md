@@ -117,7 +117,7 @@ streamlit run app.py
 ## Key Scientific Findings
 
 
-- Concept Drift:** The model trained on EMBER 2018 shows reduced accuracy when tested on newer malware samples (MalwareBazaar 2026), indicating a need for periodic revalidation in real-world deployment.
+- Concept Drift: The model trained on EMBER 2018 shows reduced accuracy when tested on newer malware samples (MalwareBazaar 2026), indicating a need for periodic revalidation in real-world deployment.
 - Optimal Hybrid Architecture:** The (0.3, 0.7) threshold reduces the workload escalated to the Tier 2 LLM by ~22%, while keeping overall FPR and F1 at a good level.
 
 ## License
@@ -126,9 +126,9 @@ streamlit run app.py
 
 ## Authors
 
-Ta Minh Hoang -  
+Ta Minh Hoang - 
 Le Duc Hai -
-Huynh Ngoc Tuan - 
+Huynh Ngoc Tuan -
 Do Tran Vy -
 Nguyen Duc Hoang Anh
 
