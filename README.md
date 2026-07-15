@@ -116,13 +116,13 @@ streamlit run app.py
 
 ## Key Scientific Findings
 
-- **Clever Hans Effect:** The API call sequence dataset (Fellicious et al.) showed signs that the model was learning spurious correlations from Cuckoo Sandbox logging artifacts rather than real API behavior — leading to the decision to switch to the static EMBER 2018 features instead.
-- **Concept Drift:** The model trained on EMBER 2018 shows reduced accuracy when tested on newer malware samples (MalwareBazaar 2026), indicating a need for periodic revalidation in real-world deployment.
-- **Optimal Hybrid Architecture:** The (0.3, 0.7) threshold reduces the workload escalated to the Tier 2 LLM by ~22%, while keeping overall FPR and F1 at a good level.
+
+- Concept Drift:** The model trained on EMBER 2018 shows reduced accuracy when tested on newer malware samples (MalwareBazaar 2026), indicating a need for periodic revalidation in real-world deployment.
+- Optimal Hybrid Architecture:** The (0.3, 0.7) threshold reduces the workload escalated to the Tier 2 LLM by ~22%, while keeping overall FPR and F1 at a good level.
 
 ## License
 
-MIT License (or adjust as required by your school/department).
+
 
 ## Authors
 
