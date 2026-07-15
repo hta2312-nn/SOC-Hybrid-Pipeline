@@ -126,10 +126,10 @@ MIT License (or adjust as required by your school/department).
 
 ## Authors
 
-Ta Minh Hoang
-Le Duc Hai 
-Huynh Ngoc Tuan 
-Do Tran Vy
+Ta Minh Hoang -  
+Le Duc Hai -
+Huynh Ngoc Tuan - 
+Do Tran Vy -
 Nguyen Duc Hoang Anh
 
 
