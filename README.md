@@ -126,7 +126,10 @@ MIT License (or adjust as required by your school/department).
 
 ## Authors
 
-Tạ Minh Hoàng - SE194567
-Lê Đức Hải - SE194586
+Ta Minh Hoang
+Le Duc Hai 
+Huynh Ngoc Tuan 
+Do Tran Vy
+Nguyen Duc Hoang Anh
 
-Graduation thesis project — Information Security major, FPT University, 2026.
+
